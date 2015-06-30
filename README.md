@@ -30,7 +30,8 @@ Getting started
 ```
 x = googleplex
 1. alskjxa
- 1. 
+ 		1.1
+		 1.2 
   1. 
    2. 
     3. 
